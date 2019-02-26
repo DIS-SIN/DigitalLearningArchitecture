@@ -1,0 +1,72 @@
+{
+  "name": "dol",
+  "version": "1.0.0",
+  "description": "DOL in Python, Flask, npm, webpack, react",
+  "main": "index.jsx",
+  "scripts": {
+    "build": "webpack -p --progress --config webpack.config.js",
+    "dev-build": "webpack --progress -d --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --progress -d --config webpack.config.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIS-SIN/PyFoundations.git"
+  },
+  "keywords": [
+    "Python",
+    "Flask",
+    "React"
+  ],
+  "author": "DIS-SIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DIS-SIN/PyFoundations/issues"
+  },
+  "homepage": "https://github.com/DIS-SIN/PyFoundations#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/plugin-proposal-export-namespace-from": "^7.2.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.3.2",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "promise-polyfill": "^8.1.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-localization": "^1.0.13",
+    "react-redux": "^6.0.0",
+    "react-router": "^4.3.1",
+    "recharts": "^1.4.3",
+    "redux": "^4.0.1",
+    "sass-loader": "^7.1.0",
+    "source-map": "^0.7.3",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.1",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/lab": "^3.0.0-alpha.30",
+    "@types/classnames": "^2.2.7",
+    "@types/node": "^10.12.24",
+    "@types/react": "^16.8.2",
+    "@types/react-dom": "^16.8.0",
+    "core-js": "^2.6.3",
+    "numeral": "^2.0.6",
+    "react-html-parser": "^2.0.2",
+    "react-markdown": "^4.0.6",
+    "react-router-dom": "^4.3.1",
+    "react-tree-graph": "^4.0.0",
+    "typeface-roboto": "0.0.54",
+    "typescript": "^3.3.3"
+  }
+}

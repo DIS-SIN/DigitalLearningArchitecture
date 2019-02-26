@@ -1,0 +1,86 @@
+{
+    "common": {
+        "lat": "LEARNING ARCHITECTURE",
+        "english": "English",
+        "french": "Français",
+        "dol": "DOL",
+        "aon": "AON",
+        "dolfull": "DIGITAL OPEN LEARNING",
+        "aonfull": "APPRENTISSAGE OUVERT NUMÉRIQUE",
+        "logout": "Logout",
+        "explore": "Explore",
+        "share": "Share",
+        "about": "About",
+        "profile": "Profile",
+        "learnerprofile": "Learner profile",
+        "settings": "Settings",
+        "signin": "Sign In",
+        "search": "Search",
+        "addto": "Add to",
+        "edit": "Edit",
+        "delete": "Delete",
+        "remove": "Remove",
+        "streams": "Streams",
+        "practices": "Practices",
+        "experience": "Experience",
+        "experiences": "Experiences",
+        "cancel": "Cancel",
+        "home": "Home",
+        "save": "Save",
+        "episode": "Episode",
+        "episodes": "Episodes",
+        "tag": "Tag",
+        "tags": "Tags",
+        "actions": "Actions",
+        "back": "Back",
+        "rate": "Rate Content",
+        "related": "Related Content",
+        "comment": "Comment",
+        "like": "Like"
+    },
+    "organisms": {
+        "header": {
+            "menu": {
+                "logo": "DOL",
+                "logout": "Logout",
+                "explore": "Explore",
+                "share": "Share",
+                "about": "About",
+                "profile": "Profile",
+                "settings": "Settings",
+                "signin": "Sign In",
+                "search": "Search"
+            }
+        },
+        "footer": {
+            "desctitle": "Digital Academy",
+            "connect": "CONNECT",
+            "socialmedia": "SOCIAL MEDIA",
+            "description": "The Digital Academy's mission is to provide cutting-edge skills to the Canadian Public Service."
+        }
+    },
+    "pages": {
+        "stub": {
+            "hero": {
+                "title": "Coming Soon",
+                "text": "<h5>Page is <strong>currently under construction</strong></h5><p>Check back soon!</p>",
+                "route": "Route",
+                "home": "Home"
+            }
+        },
+        "e404": {
+            "hero": {
+                "title": "404",
+                "text": "<h5>We couldn't find that Web page</h5><p>We're sorry you ended up here. Sometimes a page gets moved or deleted, but hopefully we can help you find what you're looking for. What next?</p>",
+                "home": "Home"
+            }
+        },
+        "explore": {
+            "hero": {
+                "title": "EXPLORE",
+                "text": "<strong>Learn what you want</strong>. The catalogue below has <strong>streams</strong> which bundle up groups of <strong>practices</strong>. Each practice has <strong>learning points</strong> which you can explore."
+            },
+            "body": {}
+        }
+    }
+}

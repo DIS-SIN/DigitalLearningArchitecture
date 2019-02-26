@@ -1,0 +1,93 @@
+{
+    "common": {
+        "lat": "ARCHITECTURE D'APPRENTISSAGE",
+        "english": "English",
+        "french": "Français",
+        "dol": "DOL",
+        "aon": "AON",
+        "dolfull": "DIGITAL OPEN LEARNING",
+        "aonfull": "APPRENTISSAGE OUVERT NUMÉRIQUE",
+        "logout": "Déconnexion",
+        "explore": "Explorer",
+        "share": "Partager",
+        "about": "À propos",
+        "profile": "Profil",
+        "learnerprofile": "Profil d'apprentissage",
+        "settings": "Réglages",
+        "signin": "Connexion",
+        "search": "Chercher",
+        "addto": "Ajouter à",
+        "edit": "Modifier",
+        "delete": "Effacer",
+        "remove": "Retirer",
+        "streams": "Ruisseaux",
+        "practices": "Pratiques",
+        "experience": "Expérience",
+        "experiences": "Expériences",
+        "cancel": "Annuler",
+        "home": "Accueil",
+        "save": "Enregistrer",
+        "episode": "Épisode",
+        "episodes": "Épisodes",
+        "tag": "Mot clés",
+        "tags": "Mots clés",
+        "actions": "Actions",
+        "back": "Retour",
+        "rate": "Évaluer le contenu",
+        "related": "Contenu connexe",
+        "comment": "Commentaire",
+        "like": "J'aime ça"
+    },
+    "organisms": {
+        "header": {
+            "samples": {
+                "dashboard": "Ex: Tableau de bord",
+                "showcase": "Ex: Vitrine",
+                "album": "Ex: Album",
+                "signin": "Ex: Connexion",
+                "pricing": "Ex: Tarification"
+            },
+            "menu": {
+                "logo": "AON",
+                "logout": "Déconnexion",
+                "explore": "Explorer",
+                "share": "Partager",
+                "about": "À propos",
+                "profile": "Profil",
+                "settings": "Réglages",
+                "signin": "Connexion",
+                "search": "Chercher"
+            }
+        },
+        "footer": {
+            "desctitle": "Académie Numérique",
+            "connect": "RELIER",
+            "socialmedia": "DES MÉDIAS SOCIAUX",
+            "description": "Académie Numérique a pour mission de fournir des compétences de pointe à la fonction publique canadienne."
+        }
+    },
+    "pages": {
+        "stub": {
+            "hero": {
+                "title": "Arrive Bientôt",
+                "text": "<h5>Cette page est <strong>en construction</strong></h5><p>Revenez bientôt!<p>",
+                "route": "Route",
+                "home": "Accueil"
+            }
+        },
+        "e404": {
+            "hero": {
+                "title": "404",
+                "text": "<h5>Nous ne pouvons trouver cette page Web</h5><p>Nous sommes désolés que vous ayez abouti ici. Il arrive parfois qu'une page ait été déplacée ou supprimée. Heureusement, nous pouvons vous aider à trouver ce que vous cherchez. Que faire?</p>",
+                "home": "Accueil"
+            }
+        },
+        "explore": {
+            "hero": {
+                "title": "EXPLORER",
+                "text": "<strong> Découvrez ce que vous souhaitez </ strong>. Le catalogue ci-dessous contient des <strong> flux </ strong> regroupant des groupes de <strong> pratiques </ strong>. Chaque pratique comporte des <strong> points d'apprentissage </ strong> que vous pouvez explorer."
+            },
+            "body": {}
+        }
+    }
+}
