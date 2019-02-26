@@ -220,6 +220,7 @@ class DOLExploreTree extends React.Component {
                                     data={data}
                                     height={400}
                                     width={this.getBound().width * 0.7}
+                                    //margins={{ bottom: 0, left: 40, right: 300, top: 0 }}
                                     svgProps={{
                                         //transform: 'rotate(90)',
                                         onClick: this.focusTree,
