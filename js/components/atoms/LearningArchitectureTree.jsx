@@ -17,13 +17,13 @@ export const LearningArchitectureTree = () => (
                 }, {
                     "name": "Ethidcal and Responsible Use"
                 }, {
-                    "name": "Inclusive Design"
+                    "name": "Inclusive Design in Government"
                 }, {
                     "name": "Open Standards and Solutions"
                 }, {
                     "name": "Open By Default"
                 }, {
-                    "name": "Security and Privacy"
+                    "name": "Security and Privacy, Digital Government"
                 }, {
                     "name": "User-Centric Design"
                 }
@@ -260,7 +260,7 @@ export const LearningArchitectureTree = () => (
                                 "name": "Being inclusive",
                                 "children": [
                                     {
-                                        "name": "Challengeg your biases"
+                                        "name": "Challenge your biases"
                                     },
                                     {
                                         "name": "Considering broader beneficial impact",
@@ -342,21 +342,21 @@ export const LearningArchitectureTree = () => (
                                         ]
                                     },
                                     {
-                                        "name": "Empathy",
+                                        "name": "Empathy (accessibility)",
                                         "children": [
                                             {
-                                                "name": "Building empathy"
+                                                "name": "Building empathy (accessibility)"
                                             },
                                             {
-                                                "name": "Engaging with empathy"
+                                                "name": "Engaging with empathy (accessibility)"
                                             }
                                         ]
                                     },
                                     {
-                                        "name": "Ethics",
+                                        "name": "Ethics (accessibility)",
                                         "children": [
                                             {
-                                                "name": "Understanding ethical implication of design"
+                                                "name": "Understanding ethical implication of design (accessibility)"
                                             }
                                         ]
                                     },
@@ -446,7 +446,7 @@ export const LearningArchitectureTree = () => (
                                         "name": "Being your users"
                                     },
                                     {
-                                        "name": "Brainstorming"
+                                        "name": "Brainstorming (ideation)"
                                     }
                                 ]
                             },
@@ -457,7 +457,7 @@ export const LearningArchitectureTree = () => (
                                         "name": "Doing research"
                                     },
                                     {
-                                        "name": "Brainstorming"
+                                        "name": "Brainstorming (discovery)"
                                     },
                                     {
                                         "name": "Including different perspectives"
@@ -476,10 +476,10 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Developing potential solutions",
+                                "name": "Developing potential solutions (design)",
                                 "children": [
                                     {
-                                        "name": "Brainstorming"
+                                        "name": "Brainstorming (design)"
                                     },
                                     {
                                         "name": "'Yes, and' mindset"
@@ -542,10 +542,10 @@ export const LearningArchitectureTree = () => (
                         "name": "Service design",
                         "children": [
                             {
-                                "name": "Gathering data",
+                                "name": "Gathering data (service design)",
                                 "children": [
                                     {
-                                        "name": "Interviews"
+                                        "name": "Interviews (service design)"
                                     },
                                     {
                                         "name": "Web analytics"
@@ -585,7 +585,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Discovering the problem",
+                                "name": "Discovering the problem (service design)",
                                 "children": [
                                     {
                                         "name": "Ecosystem map"
@@ -599,7 +599,7 @@ export const LearningArchitectureTree = () => (
                                 "name": "Doing user research",
                                 "children": [
                                     {
-                                        "name": "Interviews"
+                                        "name": "Interviews (doing user research)"
                                     },
                                     {
                                         "name": "Experience mapping"
@@ -613,7 +613,7 @@ export const LearningArchitectureTree = () => (
                                 "name": "Developing potential solutions",
                                 "children": [
                                     {
-                                        "name": "Brainstorming"
+                                        "name": "Brainstorming (solutions)"
                                     },
                                     {
                                         "name": "Storyboarding"
@@ -678,7 +678,7 @@ export const LearningArchitectureTree = () => (
                                         "name": "Ecosystem map"
                                     },
                                     {
-                                        "name": "Imagining new partnerships"
+                                        "name": "Imagining new partnerships (systems mindset)"
                                     },
                                     {
                                         "name": "Recognizing interconnectedness of users and systems"
@@ -695,7 +695,7 @@ export const LearningArchitectureTree = () => (
                                         "name": "Service flip"
                                     },
                                     {
-                                        "name": "Imagining new partnerships"
+                                        "name": "Imagining new partnerships (design)"
                                     }
                                 ]
                             }
@@ -719,7 +719,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Gathering data",
+                                "name": "Gathering data (Design research)",
                                 "children": [
                                     {
                                         "name": "Content audit"
@@ -774,7 +774,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Doing user research",
+                                "name": "Doing user research (design)",
                                 "children": [
                                     {
                                         "name": "Facilitation techniques"
@@ -824,16 +824,16 @@ export const LearningArchitectureTree = () => (
                                         "name": "Focus groups"
                                     },
                                     {
-                                        "name": "Interviews"
+                                        "name": "Interviews (user research)"
                                     },
                                     {
                                         "name": "Card sorting",
                                         "children": [
                                             {
-                                                "name": "Open card sort"
+                                                "name": "Open card sort (card sorting)"
                                             },
                                             {
-                                                "name": "Closed card sort"
+                                                "name": "Closed card sort (card sorting)"
                                             }
                                         ]
                                     },
@@ -892,7 +892,7 @@ export const LearningArchitectureTree = () => (
                         "name": "Content strategy",
                         "children": [
                             {
-                                "name": "Aligning user and business needs",
+                                "name": "Aligning user and business needs, Strategy",
                                 "children": [
                                     {
                                         "name": "Core content model"
@@ -900,7 +900,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Reviewing existing content",
+                                "name": "Reviewing existing content (content strategy)",
                                 "children": [
                                     {
                                         "name": "Content audit",
@@ -916,7 +916,7 @@ export const LearningArchitectureTree = () => (
                                 "name": "Identifying content problems and opportunities"
                             },
                             {
-                                "name": "Adopting systems mindset",
+                                "name": "Adopting systems mindset (content)",
                                 "children": [
                                     {
                                         "name": "Considering impact beyond the intended audience"
@@ -928,7 +928,7 @@ export const LearningArchitectureTree = () => (
                                         "name": "Ecosystem map"
                                     },
                                     {
-                                        "name": "Imagining new partnerships"
+                                        "name": "Imagining new partnerships (content)"
                                     }
                                 ]
                             },
@@ -966,10 +966,10 @@ export const LearningArchitectureTree = () => (
                         "name": "Information architecture",
                         "children": [
                             {
-                                "name": "Gathering data",
+                                "name": "Gathering data (Info Architecture)",
                                 "children": [
                                     {
-                                        "name": "Card sorting",
+                                        "name": " (Info architecture)",
                                         "children": [
                                             {
                                                 "name": "Open card sort"
@@ -1000,7 +1000,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Using data and user research",
+                                "name": "Using data and user research (information architecture)",
                                 "children": [
                                     {
                                         "name": "Personas"
@@ -1037,28 +1037,28 @@ export const LearningArchitectureTree = () => (
                                 "name": "Information architecture principles",
                                 "children": [
                                     {
-                                        "name": "Principle of choices"
+                                        "name": "Principle of choices (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of disclosure"
+                                        "name": "Principle of disclosure (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of front doors"
+                                        "name": "Principle of front doors (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of objects"
+                                        "name": "Principle of objects (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of growth"
+                                        "name": "Principle of growth (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of exemplars"
+                                        "name": "Principle of exemplars (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of multiple classifications"
+                                        "name": "Principle of multiple classifications (info architecture)"
                                     },
                                     {
-                                        "name": "Principle of focused navigation"
+                                        "name": "Principle of focused navigation (info architecture)"
                                     }
                                 ]
                             },
@@ -1162,13 +1162,13 @@ export const LearningArchitectureTree = () => (
                                         ]
                                     },
                                     {
-                                        "name": "Journey mapping"
+                                        "name": "Journey mapping (design)"
                                     },
                                     {
-                                        "name": "Task flow analysis"
+                                        "name": "Task flow analysis (design)"
                                     },
                                     {
-                                        "name": "Principle of front doors"
+                                        "name": "Principle of front doors (design)"
                                     }
                                 ]
                             },
@@ -1229,10 +1229,10 @@ export const LearningArchitectureTree = () => (
                                 "name": "Testing the information architecture",
                                 "children": [
                                     {
-                                        "name": "Card sorting",
+                                        "name": "Card sorting (Testing)",
                                         "children": [
                                             {
-                                                "name": "Closed card sort"
+                                                "name": "Closed card sort (testing)"
                                             }
                                         ]
                                     },
@@ -1261,7 +1261,7 @@ export const LearningArchitectureTree = () => (
                         "name": "Content design",
                         "children": [
                             {
-                                "name": "Using data and user research",
+                                "name": "Using data and user research (content design)",
                                 "children": [
                                     {
                                         "name": "Personas"
@@ -1319,7 +1319,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Information architecture principles",
+                                "name": "Information architecture principles (content design)",
                                 "children": [
                                     {
                                         "name": "Principle of choices"
@@ -1508,7 +1508,7 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Gathering data"
+                                "name": "Gathering data (visual design)"
                             },
                             {
                                 "name": "Scoping the project"
@@ -1581,19 +1581,19 @@ export const LearningArchitectureTree = () => (
                                 ]
                             },
                             {
-                                "name": "Accessibility",
+                                "name": "Accessibility (Interaction Design)",
                                 "children": [
                                     {
-                                        "name": "Understanding accessibility",
+                                        "name": "Understanding accessibility (Interaction Design)",
                                         "children": [
                                             {
-                                                "name": "Understanding web accesssibility"
+                                                "name": "Understanding web accesssibility (Interaction Design)"
                                             },
                                             {
-                                                "name": "What is disability?"
+                                                "name": "What is disability? (Interaction Design)"
                                             },
                                             {
-                                                "name": "Types of states and disabilities that require accomodation"
+                                                "name": "Types of states and disabilities that require accomodation (Interaction Design)"
                                             }
                                         ]
                                     },
@@ -1835,13 +1835,13 @@ export const LearningArchitectureTree = () => (
                                         "name": "Tree jack"
                                     },
                                     {
-                                        "name": "Card sorting",
+                                        "name": "Card sorting (usability)",
                                         "children": [
                                             {
-                                                "name": "Open card sort"
+                                                "name": "Open card sort (usability)"
                                             },
                                             {
-                                                "name": "Closed card sort"
+                                                "name": "Closed card sort (usability)"
                                             }
                                         ]
                                     }
@@ -1880,7 +1880,7 @@ export const LearningArchitectureTree = () => (
                                         "name": "Identify objectives"
                                     },
                                     {
-                                        "name": "Do not lead with your questions"
+                                        "name": "Do not lead with your questions (test)"
                                     },
                                     {
                                         "name": "Defining success"
@@ -1891,16 +1891,16 @@ export const LearningArchitectureTree = () => (
                                 "name": "Doing usability testing",
                                 "children": [
                                     {
-                                        "name": "Observing users"
+                                        "name": "Observing users (usability)"
                                     },
                                     {
-                                        "name": "Taking notes"
+                                        "name": "Taking notes (usability)"
                                     },
                                     {
-                                        "name": "Facilitation techniques"
+                                        "name": "Facilitation techniques (usability)"
                                     },
                                     {
-                                        "name": "Do not lead with your questions"
+                                        "name": "Do not lead with your questions (usability)"
                                     }
                                 ]
                             },
