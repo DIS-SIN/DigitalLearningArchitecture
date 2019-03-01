@@ -15,7 +15,7 @@ export const LearningArchitectureTree = () => (
                 }, {
                     "name": "Empowering People"
                 }, {
-                    "name": "Ethidcal and Responsible Use"
+                    "name": "Ethical and Responsible Use"
                 }, {
                     "name": "Inclusive Design in Government"
                 }, {
